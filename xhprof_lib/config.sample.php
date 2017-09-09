@@ -1,4 +1,5 @@
 <?php
+defined('XHPROF_LIB_ROOT') or define('XHPROF_LIB_ROOT', dirname(__FILE__));
 $_xhprof = array();
 
 // Change these:
